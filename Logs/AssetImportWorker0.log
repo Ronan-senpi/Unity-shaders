@@ -1,0 +1,329 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1110; Version 2009; 64bit' Language: 'fr' Physical Memory: 8081 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Projects/ESGI/YianKutKu-shaders
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57796
+Successfully changed project path to: C:/Projects/ESGI/YianKutKu-shaders
+C:/Projects/ESGI/YianKutKu-shaders
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 111.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Projects/ESGI/YianKutKu-shaders/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56116
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004359 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 152.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.767 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002650 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 171.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.839 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3503 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.3 MB.
+System memory in use after: 173.6 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 3935.
+Total: 7.761700 ms (FindLiveObjects: 0.853100 ms CreateObjectMapping: 0.728400 ms MarkObjects: 2.938200 ms  DeleteObjects: 3.239900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph
+  artifactKey: Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph using Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0d203fb219227c18f5b00e2440114b') in 0.089307 seconds
+  Import took 0.106164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 369.033885 seconds.
+  path: Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph
+  artifactKey: Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph using Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b15ee1b39830afc50bf26fdbf4a846') in 0.012290 seconds
+  Import took 0.029295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000561 seconds.
+  path: Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph
+  artifactKey: Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph using Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b15ee1b39830afc50bf26fdbf4a846') in 0.004793 seconds
+  Import took 0.014915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 283.937881 seconds.
+  path: Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph
+  artifactKey: Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph using Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455304580edd9024b2610bbe14f8a9dc') in 0.004337 seconds
+  Import took 0.014959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2260.045532 seconds.
+  path: Assets/Shaders/Kamehmeha/VarWaves.shadersubgrap
+  artifactKey: Guid(405d4a835613b5f48a94c9caa24b2c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Kamehmeha/VarWaves.shadersubgrap using Guid(405d4a835613b5f48a94c9caa24b2c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ce5ff11f7752a92b28d4c080350a26') in 0.020778 seconds
+  Import took 0.047179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.117035 seconds.
+  path: Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph
+  artifactKey: Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph using Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c3c87192620314df848ac84df76909') in 0.010568 seconds
+  Import took 0.021617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.277129 seconds.
+  path: Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph
+  artifactKey: Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph using Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c3c87192620314df848ac84df76909') in 0.011993 seconds
+  Import took 0.021867 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.111 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3242 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.8 MB.
+System memory in use after: 162.1 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3938.
+Total: 11.843200 ms (FindLiveObjects: 1.118300 ms CreateObjectMapping: 0.517700 ms MarkObjects: 4.767300 ms  DeleteObjects: 5.436200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.535 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3242 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.8 MB.
+System memory in use after: 162.2 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3941.
+Total: 10.368300 ms (FindLiveObjects: 0.842800 ms CreateObjectMapping: 0.656800 ms MarkObjects: 3.984000 ms  DeleteObjects: 4.882200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.670 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3242 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.8 MB.
+System memory in use after: 162.2 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3944.
+Total: 12.315600 ms (FindLiveObjects: 0.737700 ms CreateObjectMapping: 0.364600 ms MarkObjects: 7.095900 ms  DeleteObjects: 4.111700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2045.299071 seconds.
+  path: Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph
+  artifactKey: Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph using Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff510ac1b6ec8ed6137e53a9b78e6c0') in 0.032246 seconds
+  Import took 0.048367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.283329 seconds.
+  path: Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph
+  artifactKey: Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Kamehmeha/KamehmehaShader.shadergraph using Guid(0860fb5e4856bf7489d2abe20553fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff510ac1b6ec8ed6137e53a9b78e6c0') in 0.004438 seconds
+  Import took 0.014044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1895.745527 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(3e935e171989d824ca8392f543f8937c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(3e935e171989d824ca8392f543f8937c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd88879a054958b14aa8adbca9702be') in 0.012875 seconds
+  Import took 0.026552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.817762 seconds.
+  path: Assets/Prefabs/GokuIdle Variant.prefab
+  artifactKey: Guid(5698dd244fd65174f916729504f9359c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GokuIdle Variant.prefab using Guid(5698dd244fd65174f916729504f9359c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d414200009961924f8c16391804de03') in 1.906841 seconds
+  Import took 1.921082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.043509 seconds.
+  path: Assets/Prefabs/GokuKamehameha Variant.prefab
+  artifactKey: Guid(dfca2db3fa636ef458c2edc5493ae8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GokuKamehameha Variant.prefab using Guid(dfca2db3fa636ef458c2edc5493ae8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcf287caed18bfaae5b0b6eb92958e08') in 0.088598 seconds
+  Import took 0.106276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.232848 seconds.
+  path: Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE
+  artifactKey: Guid(6854f12bf281af647b2554fcb97dad31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE using Guid(6854f12bf281af647b2554fcb97dad31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5cd051d1585ef978db44101e53fb70') in 0.015534 seconds
+  Import took 0.026533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.325044 seconds.
+  path: Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/ToonShader
+  artifactKey: Guid(e4ee7725984d8e74fb682dfb17255b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/ToonShader using Guid(e4ee7725984d8e74fb682dfb17255b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d77945d488c0b6ef0de4b9688adda80') in 0.012558 seconds
+  Import took 0.022550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.008202 seconds.
+  path: Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/Color04
+  artifactKey: Guid(534f812124b2a2f4fb66d761f3de063b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/Color04 using Guid(534f812124b2a2f4fb66d761f3de063b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf42f20e712690fee536fe6c73e0690') in 0.017261 seconds
+  Import took 0.031311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.663787 seconds.
+  path: Assets/Models/KAMEHAMEHA.blend1
+  artifactKey: Guid(d1f8d6b62f69b0646bc229c528980f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/KAMEHAMEHA.blend1 using Guid(d1f8d6b62f69b0646bc229c528980f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8971c4d47d33b4ab62b5b4f7c0e9344b') in 0.010366 seconds
+  Import took 0.024230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.414222 seconds.
+  path: Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/ToonShader/ToonShader.shadergraph
+  artifactKey: Guid(512b45c7483b1d2419d7c36a4d34d89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/ToonShader/ToonShader.shadergraph using Guid(512b45c7483b1d2419d7c36a4d34d89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adabea56e45ea83e50f815d5de8bca47') in 0.008802 seconds
+  Import took 0.024605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000716 seconds.
+  path: Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/ToonShader/ToonShader.shadergraph
+  artifactKey: Guid(512b45c7483b1d2419d7c36a4d34d89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/DBFZ_Menu_Lobby_Avatar_GKA_GokuSS1TornGi_DAE/ToonShader/ToonShader.shadergraph using Guid(512b45c7483b1d2419d7c36a4d34d89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adabea56e45ea83e50f815d5de8bca47') in 0.008704 seconds
+  Import took 0.018532 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002745 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.215 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3253 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.4 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 4086.
+Total: 7.065100 ms (FindLiveObjects: 0.432900 ms CreateObjectMapping: 0.223000 ms MarkObjects: 3.439000 ms  DeleteObjects: 2.968400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1652.370329 seconds.
+  path: Assets/Shaders/YianKutKuShaders
+  artifactKey: Guid(ae71e15c35c32d3408fd02490feeb199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/YianKutKuShaders using Guid(ae71e15c35c32d3408fd02490feeb199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827410b898db3575ddb56c9e3171d198') in 0.025068 seconds
+  Import took 0.036321 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
