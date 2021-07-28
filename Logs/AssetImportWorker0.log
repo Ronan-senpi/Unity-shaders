@@ -1,0 +1,1059 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1110; Version 2009; 64bit' Language: 'fr' Physical Memory: 8081 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Projects/ESGI/Yian-kut-ku shaders
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62300
+Successfully changed project path to: C:/Projects/ESGI/Yian-kut-ku shaders
+C:/Projects/ESGI/Yian-kut-ku shaders
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 133.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Projects/ESGI/Yian-kut-ku shaders/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002671 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 273.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.536 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 194.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.086 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.5 MB.
+System memory in use after: 162.5 MB.
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3910.
+Total: 8.525800 ms (FindLiveObjects: 0.438500 ms CreateObjectMapping: 0.283000 ms MarkObjects: 3.994200 ms  DeleteObjects: 3.807200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VFXDefaultResources.asset
+  artifactKey: Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXDefaultResources.asset using Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45536c7972633520cf3e234fada6d768') in 0.093307 seconds
+  Import took 0.101743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000972 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42db0c545a506d144d1236d7a20839a1') in 0.017316 seconds
+  Import took 0.025488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.466596 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(a007e886b06d87d43aacfe891b0b439e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a007e886b06d87d43aacfe891b0b439e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd1b4d40a82e09acd859432d89e84c1') in 0.009005 seconds
+  Import took 0.017026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002165 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(a007e886b06d87d43aacfe891b0b439e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a007e886b06d87d43aacfe891b0b439e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd1b4d40a82e09acd859432d89e84c1') in 0.008556 seconds
+  Import took 0.016025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.291076 seconds.
+  path: Assets/Scenes/SampleScene
+  artifactKey: Guid(6a5ab7f14dc90e245a38a8d287014804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene using Guid(6a5ab7f14dc90e245a38a8d287014804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85fe59e75efb9e31064f38a1405792c') in 0.012462 seconds
+  Import took 0.024801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039405 seconds.
+  path: Assets/Scenes/SampleScene/LightingData.asset
+  artifactKey: Guid(c9672d4b9a662004a9bf0d3f330e6b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/LightingData.asset using Guid(c9672d4b9a662004a9bf0d3f330e6b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780aa484b6c52be96052a9bda1601062') in 0.024195 seconds
+  Import took 0.039952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-13.exr
+  artifactKey: Guid(5b4b9c42474fea44ea71f98dbbbf883a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-13.exr using Guid(5b4b9c42474fea44ea71f98dbbbf883a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8ce9a9c157b33055704e591b3fbc6f') in 0.298403 seconds
+  Import took 0.313873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-11.exr
+  artifactKey: Guid(1b5727504ffe4b247b09ed4502ffc116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-11.exr using Guid(1b5727504ffe4b247b09ed4502ffc116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b491d3ef8d0d32e99e29d3a39c76e6bc') in 0.093747 seconds
+  Import took 0.102111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-7.exr
+  artifactKey: Guid(db9a1847f2c6ae34c9ec4947ce906bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-7.exr using Guid(db9a1847f2c6ae34c9ec4947ce906bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bbbf4c8fd6fc6e673733ea87e5a7090') in 0.085785 seconds
+  Import took 0.099720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-2_comp_dir.png
+  artifactKey: Guid(d0e945dd6a89edd408f301b839717f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-2_comp_dir.png using Guid(d0e945dd6a89edd408f301b839717f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450e49c89e13a2561abfa98b92abe4d4') in 0.121951 seconds
+  Import took 0.130556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-5.exr
+  artifactKey: Guid(84decc14d3cf01c45ad713670f164cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-5.exr using Guid(84decc14d3cf01c45ad713670f164cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a4a047ca61e621856bda556ce15888') in 0.106139 seconds
+  Import took 0.114747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-17.exr
+  artifactKey: Guid(dbcc65bcafce7e043ac894a6ee6114a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-17.exr using Guid(dbcc65bcafce7e043ac894a6ee6114a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c505d3b4c25349ddc384d775ac814c6') in 0.103580 seconds
+  Import took 0.111962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-15.exr
+  artifactKey: Guid(d618aadf2e4bb7f4980187df5bb35a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-15.exr using Guid(d618aadf2e4bb7f4980187df5bb35a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062af7b52e12e3752c07882e16bb4755') in 0.117412 seconds
+  Import took 0.127820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-1.exr
+  artifactKey: Guid(c3c78b54f15d2fa4cb5ce7168bfcd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-1.exr using Guid(c3c78b54f15d2fa4cb5ce7168bfcd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97939a0023c8e7682d10e7055a26fc34') in 0.096808 seconds
+  Import took 0.108090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-10.exr
+  artifactKey: Guid(0b0c990f63a874c4fbeadb86375b8fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-10.exr using Guid(0b0c990f63a874c4fbeadb86375b8fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bb9893f54757dea84f64619805cfbe1') in 0.080639 seconds
+  Import took 0.088454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-14.exr
+  artifactKey: Guid(ca4b1069cf1d52643a18ad7e7c7d0397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-14.exr using Guid(ca4b1069cf1d52643a18ad7e7c7d0397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2c638fab53123ec27c4335eb5ba345') in 0.085695 seconds
+  Import took 0.093084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-4.exr
+  artifactKey: Guid(a4fc011afaed10c45914eeba07d87322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-4.exr using Guid(a4fc011afaed10c45914eeba07d87322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3c726916cc6d30d6249ae322f07f6f') in 0.074170 seconds
+  Import took 0.082963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-6_comp_light.exr
+  artifactKey: Guid(aff1b928f2ba59646843323bbb7019c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-6_comp_light.exr using Guid(aff1b928f2ba59646843323bbb7019c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50bf3f643707418dcba03738a0d9b875') in 0.042852 seconds
+  Import took 0.051016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+  artifactKey: Guid(db58c93c38fdd1c4cb45888d582f7a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-0.exr using Guid(db58c93c38fdd1c4cb45888d582f7a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04321ad2d565d9d3b009cc68464399b1') in 0.077818 seconds
+  Import took 0.086066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-4_comp_dir.png
+  artifactKey: Guid(5f42fa2a722ac20489856b05039dee64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-4_comp_dir.png using Guid(5f42fa2a722ac20489856b05039dee64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eecf3ccaf2cc8582a0b25e2dfee4c24') in 0.030730 seconds
+  Import took 0.040095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-16.exr
+  artifactKey: Guid(88fccc25d08980c48afb6996a4818e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-16.exr using Guid(88fccc25d08980c48afb6996a4818e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32e62f35e76a9975658bf2b99577a15') in 0.075836 seconds
+  Import took 0.085830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr
+  artifactKey: Guid(d65881cd9a18b2d468ffa8cd3872247c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr using Guid(d65881cd9a18b2d468ffa8cd3872247c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3b12cbf8d2847753a19fb3396a0d9a') in 0.033579 seconds
+  Import took 0.042476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-3_comp_dir.png
+  artifactKey: Guid(1303668a41ce5dc48b7bf699c4148df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-3_comp_dir.png using Guid(1303668a41ce5dc48b7bf699c4148df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d07814f5fdbbc4bfb76e7d70f36fa4') in 0.035604 seconds
+  Import took 0.046942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-6_comp_dir.png
+  artifactKey: Guid(a5228ee1051068b4f9e5fae8b301a8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-6_comp_dir.png using Guid(a5228ee1051068b4f9e5fae8b301a8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a556b1f96f33b6d8292818c802e2694') in 0.035651 seconds
+  Import took 0.044256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png
+  artifactKey: Guid(c78a7ef4ffd053e45986df6776d18a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png using Guid(c78a7ef4ffd053e45986df6776d18a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b1d74b777eee1607a695318effdee8') in 0.030887 seconds
+  Import took 0.040032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-5_comp_light.exr
+  artifactKey: Guid(e573b21707060b24db27d4ae41235d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-5_comp_light.exr using Guid(e573b21707060b24db27d4ae41235d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce0f416cc8dc1bdbdb1411638b89f19') in 0.049372 seconds
+  Import took 0.057486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-6.exr
+  artifactKey: Guid(bcc5d397b6334c64dab068d6bb859803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-6.exr using Guid(bcc5d397b6334c64dab068d6bb859803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78782f7a8f218093640b513c040b3bf1') in 0.075458 seconds
+  Import took 0.085045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-4_comp_light.exr
+  artifactKey: Guid(1a271bbc6f1485d4bad5874ca8455069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-4_comp_light.exr using Guid(1a271bbc6f1485d4bad5874ca8455069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bae21d76a9dfb97ee95683f3e8ac5766') in 0.032321 seconds
+  Import took 0.041707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-12.exr
+  artifactKey: Guid(8481e7bae45102c41afa57230dceda46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-12.exr using Guid(8481e7bae45102c41afa57230dceda46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '944b141b6fad6280a3e1423fd4a52e6b') in 0.077407 seconds
+  Import took 0.085282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-5_comp_dir.png
+  artifactKey: Guid(12958dd54f1b2f140b49115d3f5e2c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-5_comp_dir.png using Guid(12958dd54f1b2f140b49115d3f5e2c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784c1d01641ba03f41a2c9990fa7146b') in 0.045163 seconds
+  Import took 0.053256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-8.exr
+  artifactKey: Guid(7f20f555bfbdcaa46a2cc1e0075120a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-8.exr using Guid(7f20f555bfbdcaa46a2cc1e0075120a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614428dae54de6410a3bf5cf8eee78b2') in 0.068571 seconds
+  Import took 0.076688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(e79ebf6f6991fea40acf25281ea394e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png using Guid(e79ebf6f6991fea40acf25281ea394e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7316d9ebe6a638b2ddb4b1bba2834418') in 0.027756 seconds
+  Import took 0.035689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr
+  artifactKey: Guid(4bdbbe899c5dc0e4a89ae2694443559e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr using Guid(4bdbbe899c5dc0e4a89ae2694443559e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440049dc161c64436b14f41b15e1f752') in 0.026036 seconds
+  Import took 0.035748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(e79ebf6f6991fea40acf25281ea394e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png using Guid(e79ebf6f6991fea40acf25281ea394e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7316d9ebe6a638b2ddb4b1bba2834418') in 0.016141 seconds
+  Import took 0.024516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-2_comp_light.exr
+  artifactKey: Guid(d9af58f1eb18cb041a4746c89ce3eefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-2_comp_light.exr using Guid(d9af58f1eb18cb041a4746c89ce3eefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b90d11e463f255a8e55438a3aa03ec') in 0.027873 seconds
+  Import took 0.035555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-2.exr
+  artifactKey: Guid(905a1f2fe6a20fe4d8acced09169fea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-2.exr using Guid(905a1f2fe6a20fe4d8acced09169fea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91908fc1ec970ac32128c0f0c58831d2') in 0.071610 seconds
+  Import took 0.082014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-3.exr
+  artifactKey: Guid(d4035d0729cbed243b8628139d0aa2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-3.exr using Guid(d4035d0729cbed243b8628139d0aa2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a4660e7ab444964e0783acb6e7b769') in 0.066599 seconds
+  Import took 0.074078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-3_comp_light.exr
+  artifactKey: Guid(963c286bbf748a6439786c5cdb5206f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-3_comp_light.exr using Guid(963c286bbf748a6439786c5cdb5206f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c58fa8dc0a0552d62982ae996dfd2e6') in 0.054048 seconds
+  Import took 0.061217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-9.exr
+  artifactKey: Guid(f0e7f0a8b752e40488ce09f05f1ac2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-9.exr using Guid(f0e7f0a8b752e40488ce09f05f1ac2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a91ddcbb471ffb83a7dbd7c691d1e38') in 0.074056 seconds
+  Import took 0.080717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.388958 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42baae205c97e3337697759514652acd') in 0.011729 seconds
+  Import took 0.020536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.074927 seconds.
+  path: Assets/Models
+  artifactKey: Guid(f791843d4f0249d42949db3f3e44da37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(f791843d4f0249d42949db3f3e44da37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051ded5c6fc6d7527eff2e33d5a97afb') in 0.011671 seconds
+  Import took 0.019797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.157220 seconds.
+  path: Assets/Models/Yian Kut-Ku
+  artifactKey: Guid(b6e6018259660fd4aa8601af1f5d3d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku using Guid(b6e6018259660fd4aa8601af1f5d3d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9486d417067cd32dbfb9ffebbe775fbb') in 0.011056 seconds
+  Import took 0.030434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Models/Yian Kut-Ku/mo007_01_BM.tex.00.png
+  artifactKey: Guid(b769a7b3ab83c2e4f84b5fac1d814cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/mo007_01_BM.tex.00.png using Guid(b769a7b3ab83c2e4f84b5fac1d814cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0983f2e7efe63149f2dae2008eeeace8') in 0.043048 seconds
+  Import took 0.056984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Models/Yian Kut-Ku/fi007.obj
+  artifactKey: Guid(8b5b188f2304e8b4486626a7ce13c68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/fi007.obj using Guid(8b5b188f2304e8b4486626a7ce13c68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f36b920d10ed6b74a37c41ba4f21f875') in 6.568152 seconds
+  Import took 6.593843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.429808 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8f123ea86d8c49f43bc4b8f4a308d7') in 0.010236 seconds
+  Import took 0.023594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.637320 seconds.
+  path: Assets/Scenes/YianKutKu.unity
+  artifactKey: Guid(a4c00a0d35f45954b9b61b0a509fbbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/YianKutKu.unity using Guid(a4c00a0d35f45954b9b61b0a509fbbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed56d46e3a80301587c70238df6782f4') in 0.115069 seconds
+  Import took 0.124658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.325482 seconds.
+  path: Assets/Scenes/YianKutKuScene.unity
+  artifactKey: Guid(a4c00a0d35f45954b9b61b0a509fbbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/YianKutKuScene.unity using Guid(a4c00a0d35f45954b9b61b0a509fbbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '035108706ad2eb0bb2de65209201eb72') in 0.027043 seconds
+  Import took 0.098043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.922594 seconds.
+  path: Assets/HDRPDefaultResources
+  artifactKey: Guid(abc661c586a9116428571bb17ea1a331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources using Guid(abc661c586a9116428571bb17ea1a331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48370d96cbaec7a28c0c6df24337143a') in 0.011210 seconds
+  Import took 0.022517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.356193 seconds.
+  path: Assets/Models/Yian Kut-Ku/fi007.mtl
+  artifactKey: Guid(0ecd18c0f75e1304d9294855359dacf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/fi007.mtl using Guid(0ecd18c0f75e1304d9294855359dacf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac2934463b828a41ed2fd2fc3dece27') in 0.011052 seconds
+  Import took 0.022156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.790358 seconds.
+  path: Assets/Shaders
+  artifactKey: Guid(797634e7c1852fd44895107fa82ec0aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders using Guid(797634e7c1852fd44895107fa82ec0aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7873d24eb7736a28e5ddd9a520ff6b3') in 0.008079 seconds
+  Import took 0.016633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.766812 seconds.
+  path: Assets/Shaders/FirstShader.shadergraph
+  artifactKey: Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/FirstShader.shadergraph using Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0afb6f8c859b781caff9c69b03e835') in 0.014861 seconds
+  Import took 0.024024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.759448 seconds.
+  path: Assets/Shaders/FirstShader.shadergraph
+  artifactKey: Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/FirstShader.shadergraph using Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0afb6f8c859b781caff9c69b03e835') in 0.006696 seconds
+  Import took 0.016266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.390662 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat
+  artifactKey: Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat using Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbbbf6aa4da932537409ffe2bc5a574') in 0.077593 seconds
+  Import took 0.089982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.805683 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat
+  artifactKey: Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat using Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b5b2dfc363414c2cfcd9131547d32a') in 0.050701 seconds
+  Import took 0.061523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.021426 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat
+  artifactKey: Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat using Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d4d23fe8bce1b5399b14b40ffebedf') in 0.055738 seconds
+  Import took 0.066110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.829126 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader
+  artifactKey: Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader using Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f52395040661114795a25c9df5bbfe0') in 0.011976 seconds
+  Import took 0.018879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 543.238423 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader
+  artifactKey: Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader using Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7d84fc16a7ea860e15d118737b6d4e') in 0.004537 seconds
+  Import took 0.029818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.113906 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader
+  artifactKey: Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader using Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49410c7d6651495c345b37fea1ff4620') in 0.003841 seconds
+  Import took 0.011440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.097008 seconds.
+  path: Assets/Models/Yian Kut-Ku/FirstShader.shadergraph
+  artifactKey: Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/FirstShader.shadergraph using Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d88aa0ea98cfdaaf92d425332d8830e') in 0.012417 seconds
+  Import took 0.026529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036188 seconds.
+  path: Assets/Models/Yian Kut-Ku/FirstShader.shadergraph
+  artifactKey: Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/FirstShader.shadergraph using Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d88aa0ea98cfdaaf92d425332d8830e') in 0.013626 seconds
+  Import took 0.027661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.432600 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader
+  artifactKey: Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader using Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534048c92dfb5083a82d6a952e5886a0') in 0.005521 seconds
+  Import took 0.012950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.039121 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat
+  artifactKey: Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuMaterial.mat using Guid(1a035c4159829d64aa981bcab1a0c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7fb96a043488aaee3f62a2676f012a0') in 0.045541 seconds
+  Import took 0.055610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.382938 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader
+  artifactKey: Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader using Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0405ed4443454e5df6b343618ef4c22') in 0.005672 seconds
+  Import took 0.013353 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.514 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.4 MB.
+System memory in use after: 166.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4100.
+Total: 9.057400 ms (FindLiveObjects: 0.834600 ms CreateObjectMapping: 0.322000 ms MarkObjects: 4.058800 ms  DeleteObjects: 3.840200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1044.073234 seconds.
+  path: Assets/Models/Yian Kut-Ku/FirstShader.shadergraph
+  artifactKey: Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/FirstShader.shadergraph using Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e32d601219a0acfe9f772b60f31b79') in 0.026618 seconds
+  Import took 0.035664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.039046 seconds.
+  path: Assets/Models/Yian Kut-Ku/FirstShader.shadergraph
+  artifactKey: Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/FirstShader.shadergraph using Guid(24493c79f729ba0408fb6329f982bacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1ce4bc6f338df8f0bf7a82673aa519') in 0.057888 seconds
+  Import took 0.071168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.915194 seconds.
+  path: Assets/Models/Yian Kut-Ku/New Folder
+  artifactKey: Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/New Folder using Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ab0d960aea0f63d7ee529ca0fa762d') in 0.014639 seconds
+  Import took 0.023440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010470 seconds.
+  path: Assets/Models/Yian Kut-Ku/New Folder
+  artifactKey: Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/New Folder using Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ab0d960aea0f63d7ee529ca0fa762d') in 0.006397 seconds
+  Import took 0.015225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.378643 seconds.
+  path: Assets/Models/Yian Kut-Ku/wiggle
+  artifactKey: Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/wiggle using Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4286729cd4a6f67cf62f1f5a2c481d69') in 0.008192 seconds
+  Import took 0.017817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.218738 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader
+  artifactKey: Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader using Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c074f8c0dafa159cf27959add2383c97') in 0.003769 seconds
+  Import took 0.012417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002736 seconds.
+  path: Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader
+  artifactKey: Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/YianKutKuUnitShader.shader using Guid(445e3cabb8f57944d81019c0d226573a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c074f8c0dafa159cf27959add2383c97') in 0.005365 seconds
+  Import took 0.014316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.363900 seconds.
+  path: Assets/Models/Yian Kut-Ku/WiggleShader
+  artifactKey: Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/WiggleShader using Guid(35beb81a6fc5ca44b86690952623295d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f2dc97fec3a430d279d6b109d6eb96') in 0.008556 seconds
+  Import took 0.019088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 242.315998 seconds.
+  path: Assets/Models/Yian Kut-Ku/Chubby
+  artifactKey: Guid(a622c57612b97a047b85c7b7cecdef11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/Chubby using Guid(a622c57612b97a047b85c7b7cecdef11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '869271d2ffcd4504aabd3c6c47b79cda') in 0.012011 seconds
+  Import took 0.024016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.321116 seconds.
+  path: Assets/Models/Yian Kut-Ku/WiggleShader 1
+  artifactKey: Guid(e7e36cfbea26add4b8b9dcb702c573f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/WiggleShader 1 using Guid(e7e36cfbea26add4b8b9dcb702c573f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1633004113667a8cc9bcdf88a09f811') in 0.011866 seconds
+  Import took 0.021314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.293521 seconds.
+  path: Assets/Models/Yian Kut-Ku/ChubbyShader
+  artifactKey: Guid(e7e36cfbea26add4b8b9dcb702c573f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ChubbyShader using Guid(e7e36cfbea26add4b8b9dcb702c573f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86458467098b11aa85340973b3b72b1d') in 0.008101 seconds
+  Import took 0.014963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.416950 seconds.
+  path: Assets/Models/Yian Kut-Ku/ChubbyShader/FirstShader.shadergraph
+  artifactKey: Guid(ec164501e86db4845933dbcc494e8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ChubbyShader/FirstShader.shadergraph using Guid(ec164501e86db4845933dbcc494e8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ebd65978124571b7a490045378f2b9') in 0.010369 seconds
+  Import took 0.032705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000905 seconds.
+  path: Assets/Models/Yian Kut-Ku/ChubbyShader/FirstShader.shadergraph
+  artifactKey: Guid(ec164501e86db4845933dbcc494e8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ChubbyShader/FirstShader.shadergraph using Guid(ec164501e86db4845933dbcc494e8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ebd65978124571b7a490045378f2b9') in 0.007470 seconds
+  Import took 0.018286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.621631 seconds.
+  path: Assets/Models/Yian Kut-Ku/ChubbyShader/ChubbyShader.shadergraph
+  artifactKey: Guid(ec164501e86db4845933dbcc494e8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ChubbyShader/ChubbyShader.shadergraph using Guid(ec164501e86db4845933dbcc494e8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48950104102df97530627404b3bc22a3') in 0.007101 seconds
+  Import took 0.014895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.402802 seconds.
+  path: Assets/Models/Yian Kut-Ku/ChubbyShader/YianKutKuUnitShader.shader
+  artifactKey: Guid(5cbf3b2f7d7d7554f933c76daf062364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ChubbyShader/YianKutKuUnitShader.shader using Guid(5cbf3b2f7d7d7554f933c76daf062364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806c25e0c9c2900c3f0c07e60f39357a') in 0.006011 seconds
+  Import took 0.019199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007442 seconds.
+  path: Assets/Models/Yian Kut-Ku/ChubbyShader/YianKutKuUnitShader.shader
+  artifactKey: Guid(5cbf3b2f7d7d7554f933c76daf062364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ChubbyShader/YianKutKuUnitShader.shader using Guid(5cbf3b2f7d7d7554f933c76daf062364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806c25e0c9c2900c3f0c07e60f39357a') in 0.006782 seconds
+  Import took 0.014304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1751.607813 seconds.
+  path: Assets/Models/Yian Kut-Ku/WiggleShader 1
+  artifactKey: Guid(221333877b15d2e4481cef74e1035ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/WiggleShader 1 using Guid(221333877b15d2e4481cef74e1035ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9170654b02e9004c2debb34354981e74') in 0.012561 seconds
+  Import took 0.023391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.330626 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader
+  artifactKey: Guid(221333877b15d2e4481cef74e1035ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader using Guid(221333877b15d2e4481cef74e1035ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38fc095898504109574522555424fbae') in 0.007789 seconds
+  Import took 0.016222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.018746 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/YianKutKuUnitShader.shader
+  artifactKey: Guid(3572b1e6b6b8e1648930fbdd9c939d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/YianKutKuUnitShader.shader using Guid(3572b1e6b6b8e1648930fbdd9c939d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba17cd522f8117489f095ba0a5b3f49') in 0.005417 seconds
+  Import took 0.016359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009623 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/YianKutKuUnitShader.shader
+  artifactKey: Guid(3572b1e6b6b8e1648930fbdd9c939d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/YianKutKuUnitShader.shader using Guid(3572b1e6b6b8e1648930fbdd9c939d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba17cd522f8117489f095ba0a5b3f49') in 0.011082 seconds
+  Import took 0.019773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.263929 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/FirstShader.shadergraph
+  artifactKey: Guid(14a93829bb02c3349b0931990c390367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/FirstShader.shadergraph using Guid(14a93829bb02c3349b0931990c390367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a409d7adc561d49982ec47731d74d4e5') in 0.012353 seconds
+  Import took 0.027469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006483 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/FirstShader.shadergraph
+  artifactKey: Guid(14a93829bb02c3349b0931990c390367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/FirstShader.shadergraph using Guid(14a93829bb02c3349b0931990c390367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a409d7adc561d49982ec47731d74d4e5') in 0.007803 seconds
+  Import took 0.016034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.381736 seconds.
+  path: Assets/Models/Yian Kut-Ku/ChubbyShader 1
+  artifactKey: Guid(02b61db375c40dc45bb5b437ffec162d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ChubbyShader 1 using Guid(02b61db375c40dc45bb5b437ffec162d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5ec5ff12db55d1a0f0b09011a2ae43') in 0.012329 seconds
+  Import took 0.022833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.184372 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader
+  artifactKey: Guid(02b61db375c40dc45bb5b437ffec162d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader using Guid(02b61db375c40dc45bb5b437ffec162d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c41c576007d64e88e010191e96f766') in 0.003156 seconds
+  Import took 0.012330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.486591 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/ChubbyShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/ChubbyShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5106dc0ee692eb8858219e6cf925fa7c') in 0.006319 seconds
+  Import took 0.016142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.980473 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f6972e8fe6b95986c31782aac9d327') in 0.007480 seconds
+  Import took 0.015262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.876291 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/YianKutKuUnitShader.shader
+  artifactKey: Guid(661dbc0299d821a43bb4274c4816517f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/YianKutKuUnitShader.shader using Guid(661dbc0299d821a43bb4274c4816517f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb2f532ac02525e044c9faeee72ba1f') in 0.005212 seconds
+  Import took 0.013535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 241.642945 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564947c74b932d537dc88ae6504d09b2') in 0.007315 seconds
+  Import took 0.016356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153945 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564947c74b932d537dc88ae6504d09b2') in 0.007612 seconds
+  Import took 0.015642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.142340 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e4386b4e2f89651e9239fdbd06a106') in 0.008213 seconds
+  Import took 0.018429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006870 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e4386b4e2f89651e9239fdbd06a106') in 0.005806 seconds
+  Import took 0.014315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002227 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.787 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.5 MB.
+System memory in use after: 165.3 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 4103.
+Total: 10.571700 ms (FindLiveObjects: 1.786900 ms CreateObjectMapping: 0.666500 ms MarkObjects: 4.048800 ms  DeleteObjects: 4.067300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 604.330037 seconds.
+  path: Assets/Models/Yian Kut-Ku/WiggleShader 1
+  artifactKey: Guid(d5baad77d0fe95d4a9e7dc24437f884c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/WiggleShader 1 using Guid(d5baad77d0fe95d4a9e7dc24437f884c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '043ef92fa59a4391811bad4a6c90f17e') in 0.013442 seconds
+  Import took 0.025502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.535498 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader 1
+  artifactKey: Guid(88132e36c9be27b4c8907ba2e99ca879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader 1 using Guid(88132e36c9be27b4c8907ba2e99ca879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d8ca2a2e6ef520b942d7d342c015c3') in 0.011372 seconds
+  Import took 0.021774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.285752 seconds.
+  path: Assets/Models/Yian Kut-Ku/GlitchShader
+  artifactKey: Guid(88132e36c9be27b4c8907ba2e99ca879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/GlitchShader using Guid(88132e36c9be27b4c8907ba2e99ca879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db43c65192c801475b1baf7e5cb64f9') in 0.010312 seconds
+  Import took 0.019298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003582 seconds.
+  path: Assets/Models/Yian Kut-Ku/GlitchShader
+  artifactKey: Guid(88132e36c9be27b4c8907ba2e99ca879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/GlitchShader using Guid(88132e36c9be27b4c8907ba2e99ca879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db43c65192c801475b1baf7e5cb64f9') in 0.003566 seconds
+  Import took 0.013103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.918290 seconds.
+  path: Assets/Models/Yian Kut-Ku/GlitchShader/RotateShader.shadergraph
+  artifactKey: Guid(efe9a0b3b2feac54caeccdf3465e2981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/GlitchShader/RotateShader.shadergraph using Guid(efe9a0b3b2feac54caeccdf3465e2981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825938037bf04df9fc6b1d758910dae5') in 0.014692 seconds
+  Import took 0.022900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.386827 seconds.
+  path: Assets/Models/Yian Kut-Ku/GlitchShader/GlitchShader.shadergraph
+  artifactKey: Guid(efe9a0b3b2feac54caeccdf3465e2981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/GlitchShader/GlitchShader.shadergraph using Guid(efe9a0b3b2feac54caeccdf3465e2981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6633d3cb9106de1cf07bbf0bbb187f') in 0.006513 seconds
+  Import took 0.013654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.984424 seconds.
+  path: Assets/Models/Yian Kut-Ku/GlitchShader/GlitchShader.shadergraph
+  artifactKey: Guid(efe9a0b3b2feac54caeccdf3465e2981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/GlitchShader/GlitchShader.shadergraph using Guid(efe9a0b3b2feac54caeccdf3465e2981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b885563e4ed193c527576de460a51c7') in 0.015058 seconds
+  Import took 0.025383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.605686 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4695f3f5bf934b1a28d7700305fb09a7') in 0.006261 seconds
+  Import took 0.015698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006745 seconds.
+  path: Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph
+  artifactKey: Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/RotateShader/RotateShader.shadergraph using Guid(cbcae26317e30944b8aef78cccec87f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4695f3f5bf934b1a28d7700305fb09a7') in 0.006590 seconds
+  Import took 0.015074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1657.820884 seconds.
+  path: Assets/Models/Yian Kut-Ku/BasicShadawsShaders
+  artifactKey: Guid(3c5f21701d7e16448bde36660bbbcbec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/BasicShadawsShaders using Guid(3c5f21701d7e16448bde36660bbbcbec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a46ff474016a789ddf23a3309c9845') in 0.010382 seconds
+  Import took 0.021282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001589 seconds.
+  path: Assets/Models/Yian Kut-Ku/BasicShadawsShaders
+  artifactKey: Guid(3c5f21701d7e16448bde36660bbbcbec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/BasicShadawsShaders using Guid(3c5f21701d7e16448bde36660bbbcbec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a46ff474016a789ddf23a3309c9845') in 0.003937 seconds
+  Import took 0.013264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.577009 seconds.
+  path: Assets/Models/Yian Kut-Ku/BasicShadawsShaders/BasicShadowsUnlitShader.shader
+  artifactKey: Guid(0ed8fbff0b5d6d249bd776ab3bf50fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/BasicShadawsShaders/BasicShadowsUnlitShader.shader using Guid(0ed8fbff0b5d6d249bd776ab3bf50fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b1d858a332f97654b92903242b240d') in 0.011861 seconds
+  Import took 0.020176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.004733 seconds.
+  path: Assets/Models/Yian Kut-Ku/CubicShader
+  artifactKey: Guid(83cc67021fb5ce241b9ade9115f2da86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/CubicShader using Guid(83cc67021fb5ce241b9ade9115f2da86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b5493df5c6f6b857361759477106c7') in 0.012186 seconds
+  Import took 0.024730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.886258 seconds.
+  path: Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph
+  artifactKey: Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph using Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8274c4664cf96fb3fc450f7bfceb1a') in 0.009779 seconds
+  Import took 0.019728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005842 seconds.
+  path: Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph
+  artifactKey: Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/CubicShader/CubicShader.shadergraph using Guid(efaa3e5962882d743a20b38c9cbe13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8274c4664cf96fb3fc450f7bfceb1a') in 0.007247 seconds
+  Import took 0.016045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.055092 seconds.
+  path: Assets/Models/Yian Kut-Ku/BasicShadawsShaders/CubicShader 1.shadergraph
+  artifactKey: Guid(f0071f2d1944e9f40b002e20883d670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/BasicShadawsShaders/CubicShader 1.shadergraph using Guid(f0071f2d1944e9f40b002e20883d670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaac5cb506acb4d3979374178d346d7a') in 0.016849 seconds
+  Import took 0.029357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001802 seconds.
+  path: Assets/Models/Yian Kut-Ku/BasicShadawsShaders/CubicShader 1.shadergraph
+  artifactKey: Guid(f0071f2d1944e9f40b002e20883d670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/BasicShadawsShaders/CubicShader 1.shadergraph using Guid(f0071f2d1944e9f40b002e20883d670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaac5cb506acb4d3979374178d346d7a') in 0.006928 seconds
+  Import took 0.015389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.526823 seconds.
+  path: Assets/Models/Yian Kut-Ku/BasicShadawsShaders/BasicShadowsShader.shadergraph
+  artifactKey: Guid(f0071f2d1944e9f40b002e20883d670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/BasicShadawsShaders/BasicShadowsShader.shadergraph using Guid(f0071f2d1944e9f40b002e20883d670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77be1de5fdca03282633c142d0e09121') in 0.010748 seconds
+  Import took 0.018283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.387522 seconds.
+  path: Assets/Models/Yian Kut-Ku/BasicShadawsShaders 1
+  artifactKey: Guid(6ecb49cb4e98d8742bc38d56af8e0042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/BasicShadawsShaders 1 using Guid(6ecb49cb4e98d8742bc38d56af8e0042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4357425c12e550869175fd4128140a') in 0.011100 seconds
+  Import took 0.026598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.173641 seconds.
+  path: Assets/Models/Yian Kut-Ku/ToonShader
+  artifactKey: Guid(6ecb49cb4e98d8742bc38d56af8e0042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ToonShader using Guid(6ecb49cb4e98d8742bc38d56af8e0042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bae0eaca8f638f07d4a96f8fe0b2c626') in 0.008456 seconds
+  Import took 0.015275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.292377 seconds.
+  path: Assets/Models/Yian Kut-Ku/ToonShader/BasicShadowsShader.shadergraph
+  artifactKey: Guid(5e5901b8fbf36b14fa4427cd9d755ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ToonShader/BasicShadowsShader.shadergraph using Guid(5e5901b8fbf36b14fa4427cd9d755ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd997db0d4fd57d82d175920160c0a7') in 0.009219 seconds
+  Import took 0.018399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.905751 seconds.
+  path: Assets/Models/Yian Kut-Ku/ToonShader/ToonShader.shadergraph
+  artifactKey: Guid(5e5901b8fbf36b14fa4427cd9d755ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ToonShader/ToonShader.shadergraph using Guid(5e5901b8fbf36b14fa4427cd9d755ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d0b7414dbdc5b657599ff9bb4d66dc') in 0.006959 seconds
+  Import took 0.014046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.182626 seconds.
+  path: Assets/Models/Yian Kut-Ku/ToonShader/BasicShadowsUnlitShader.shader
+  artifactKey: Guid(59c1b90fe58d6cf4396ac4d3fe17d9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Yian Kut-Ku/ToonShader/BasicShadowsUnlitShader.shader using Guid(59c1b90fe58d6cf4396ac4d3fe17d9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5634b3510065d1aaac929eefa2aaf3c') in 0.005098 seconds
+  Import took 0.014101 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

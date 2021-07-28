@@ -1,0 +1,7 @@
+Organized in Metasequoia 4.7.4b.
+
+Parts of large monsters/textures that are affected by genes in-game show as white by default.
+
+Baby (large) monsters have separate head and sometimes body parts that are shrunken in-game.
+
+These rips lack a rig, unfortunately. 
