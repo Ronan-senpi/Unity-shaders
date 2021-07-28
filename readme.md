@@ -27,7 +27,7 @@ Aller sur unityHub et ouvrir le projet
 #### Toon Shader
 ![ToonShader yians](./.screenshots/Shaders/ToonShader.png)
 ### Son goku
-![All goku](./.screenshots/gifs/goku.gif)
+![All goku](./.screenshots/gifs/Goku.gif)
 #### Kamehameha Shader
 ![ToonShader goku kamehameha](./.screenshots/Shaders/Kamehameha.png)
 Le Kamehameha est une sphère dans laquelle un cylindre a été fusioné via un traitement Booléen. Cet objet est déformé via *ShaderGraph.
